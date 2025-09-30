@@ -10,6 +10,13 @@ This repository contains a **Power BI dashboard** designed to analyze and visual
 * Interactive filters and drill-downs for deeper insights
 * Clean and professional design suitable for reporting
 
+Project Structure
+📁 PowerBI-Fitness-Dashboard
+ ┣ 📄 Fitness_Dashboard.pbix   # Power BI file
+ ┣ 📄 UserData.xlsx            # Sample dataset (user details, exercise time, image URLs)
+ ┣ 📄 Screenshot.png           # Dashboard preview
+ ┗ 📄 README.md                # Project documentation
+
 The dataset includes:
 
 * **User Name**
